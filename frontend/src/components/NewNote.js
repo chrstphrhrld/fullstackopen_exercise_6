@@ -17,7 +17,6 @@ const NewNote = () => {
 			<button type="submit">add</button>
 		</form>
 	)
-
 }
 
 export default NewNote
